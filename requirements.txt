@@ -1,0 +1,6 @@
+requests
+python-dotenv
+logfire
+psycopg2-binary
+SQLAlchemy
+pandas
